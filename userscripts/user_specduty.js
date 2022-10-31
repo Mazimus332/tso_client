@@ -34,6 +34,24 @@ const _exudspecDutyLang = {
 		"NoData": "Nessuna azione trovata!"  ,
 		"YOU": "Tu",
 		"HideShowGuest" : "Tutti/Solo i miei"
+	},
+	"es-es": {
+		"menuItemName": "Especialistas"  ,
+		"menuTitle": "Tareas de los especialistas"  ,
+		"ColumnEstimated": "Duración"  ,
+		"ColumnArrival": "Hora de llegada"  ,
+		"NoData": "Sin datos"  ,
+		"YOU": "Tú",
+		"HideShowGuest" : "Todos/Solo míos"
+	},
+	"es-mx": {
+		"menuItemName": "Especialistas"  ,
+		"menuTitle": "Tareas de los especialistas"  ,
+		"ColumnEstimated": "Duración"  ,
+		"ColumnArrival": "Hora de llegada"  ,
+		"NoData": "Sin datos"  ,
+		"YOU": "Tú",
+		"HideShowGuest" : "Todos/Solo míos"
 	}
 };
 var _exudSpecDutyHideGuest = false;
