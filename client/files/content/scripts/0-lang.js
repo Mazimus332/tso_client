@@ -240,7 +240,7 @@ const baseTranslation = {
 		'prod_timed': 'Production Chronométrée',
 		'prod_queuesize': 'Taille de la file',
 		'prod_welcome': 'Bienvenue dans le Gestionnaire de l’état de production !',
-        'prod_welcome_block': "<p>Vous pouvez enregistrer l’état de production des bâtiments puis les arrêter ou les démarrer en masse. Cliquer sur le bouton 'Début de l'enregistrement' et sélectionnez vos bâtiments. Après cela, revenez ici et cliquer sur 'Arrêter l'Enregistrement'. Vous verrez la liste des bâtiments avec l'état actuel. Enregistrer cette liste comme Modèle et la fois suivante, cliquer simplement sur 'Charger Modèle' puis 'Soumettre'.</p>"
+        	'prod_welcome_block': "<p>Vous pouvez enregistrer l’état de production des bâtiments puis les arrêter ou les démarrer en masse. Cliquer sur le bouton 'Début de l'enregistrement' et sélectionnez vos bâtiments. Après cela, revenez ici et cliquer sur 'Arrêter l'Enregistrement'. Vous verrez la liste des bâtiments avec l'état actuel. Enregistrer cette liste comme Modèle et la fois suivante, cliquer simplement sur 'Charger Modèle' puis 'Soumettre'.</p>"
 	},
 	'es-es': {
 		'btn_submit': 'Enviar',
@@ -295,6 +295,18 @@ const baseTranslation = {
 		'prod_queuesize': 'Tamaño en cola',
 		'prod_welcome': '¡Bienvenido al gestor de Producción!',
 		'prod_welcome_block': '<p>Puedes grabar edificios y luego detenerlos o iniciarlos en masa. Presiona el botón "Iniciar grabación" y selecciona tus edificios. Después de eso, regresa y presiona "Detener grabación". Verás una lista de edificios con el estado actual. Guárdalo como plantilla y la próxima vez simplemente cargue la plantilla y presiona Enviar.</p>'
+		'menustyle_grouped': 'Agrupado',
+		'menustyle_linear': 'Lineal',
+		'menustyle_desc': 'Estilo del menú',
+		'deffilter_desc': 'Filtro de juego predeterminado',
+		'dateformat_desc': 'Formato de fechas',
+		'geotemplates_desc': 'Plantillas de Geólogo: ',
+		'expltemplates_desc': 'Plantillas de Explorador: ',
+		'bufftemplates_desc': 'Plantillas de Potenciadores: ',
+		'buitemplates_desc': 'Plantillas de Producción: ',
+		'geodeftask_desc': 'Tarea predeterminada de Geólogos',
+		'expldeftask_desc': 'Tarea predeterminada de Exploradores',
+		'spectimetype_desc': 'Tipo de cálculo de tiempo predeterminado'
 	},
 	"pl-pl": {
 		"btn_submit":"Wyślij",
