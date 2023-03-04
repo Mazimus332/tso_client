@@ -35,6 +35,24 @@ var _exudUserBuildingListLang = {
 		"PlayMute" : "Toca mesmo quando mudo",
 		"ClearMonitor" : "Limpar selecionados",
 		"AutofitUpgrading" : "Marcar em melhora"
+		},
+	"es-es" : {
+		'UserBuildingList': 'Lista de edificios',
+		'Monitor' : 'Monitor de edificios',
+		'Monitoring' : 'Observador',
+		'Upgrading' : 'Subiendo de nivel',
+		'Notify' : 'Recibir notificación',
+		'Minutes' : 'Minutos',
+		"Stop": "Parar",
+		"Start": "Iniciar",
+		"ReadyMsg" : "Observador : {0} edificios listos !",
+		"ToolTipNotify" : "Selecciona para recibir una notificación",
+		"DebuffedMsg" : "Observador : {0} edificios sin potenciador !",
+		"UpgradeSound" : "Sonido Mejora",
+		"DebuffSound" : "Sonido Sin potenciar",
+		"PlayMute" : "Incluso si está silenciado el juego",
+		"ClearMonitor" : "Limpiar lista",
+		"AutofitUpgrading" : "Marcar subiendo de nivel"
 		}
 	};
 
