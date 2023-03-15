@@ -288,8 +288,8 @@ const baseTranslation = {
 		"dutymenuTitle": "Einsatzzeit",
 		"NoData": "Nichts gefunden!",
 		"NoCollectibles": "Keine Sammlerstücke gefunden",
-		"buiFastCarousel": "Nahes Gebäude(Karussell Modus)",
-		"buiFastLevel": "Höchstes Gebäude Level",
+		"buiFastCarousel": "Gebäude in der Nähe (Karussell Modus)",
+		"buiFastLevel": "Immer höchstes Gebäude Level wählen",
 		"buiFastdesc": "Schnellzugriff Gebäude Auswahl"
 	},
 	'fr-fr': {
@@ -450,6 +450,7 @@ const baseTranslation = {
 		'bufftemplates_desc': 'Plantillas de Potenciadores: ',
 		'buitemplates_desc': 'Plantillas de Producción: ',
 		'armytemplates_desc': 'Plantillas de Ejército: ',
+		'battletemplates_desc': 'Platillas de Guerra: ',
 		'geodeftask_desc': 'Tarea predeterminada de Geólogos',
 		'expldeftask_desc': 'Tarea predeterminada de Exploradores',
 		'spectimetype_desc': 'Modo de cálculo de tiempo',
@@ -478,7 +479,10 @@ const baseTranslation = {
 		'hotkeysTitle': 'Teclas rápidas',
 		"dutymenuTitle": "Tareas de los especialistas",
 		"NoData": "Sin datos",
-		"NoCollectibles": "No se han encontrado coleccionables"
+		"NoCollectibles": "No se han encontrado coleccionables",
+		"buiFastCarousel": "Aleatorio (Modo carrusel)",
+		"buiFastLevel": "Máximo nivel",
+		"buiFastdesc": "Tipo de acceso rápido de edificios"
 	},
     "pl-pl": {
         "btn_submit": "Wyślij",
